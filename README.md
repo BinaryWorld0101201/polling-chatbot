@@ -10,7 +10,7 @@
 - Members can answer to polls by clicking on queries on the channel announced by poll_bot
 
 
-#Requirements
+# Requirements
 - Replace telegram bot API_KEY and google sheets API_KEY in the source code
 - Create a virtual environment and `pip install -r requirements`
 
